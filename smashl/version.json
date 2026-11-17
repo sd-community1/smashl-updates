@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apk": "https://github.com/sd-community1/smashl-updates/releases/download/smashl-v0.9/Smashl.apk",
-  "notes": "Update versionCode and versionName to 9 and 0.9",
-  "sha256": "fd51180245ee2f2d3445f18c5c8ac9e5530a91dc84cdb35d72a2112528cbbd19"
+  "versionCode": 10,
+  "versionName": "0.9.9",
+  "apk": "https://github.com/sd-community1/smashl-updates/releases/download/smashl-v0.9.9/Smashl.apk",
+  "notes": "Add files via upload",
+  "sha256": "acca8ad7247cd79def025968689dc4ce773a877e81183e768992e10277773144"
 }
