@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.0",
-  "apk": "https://github.com/sd-community1/smashl-updates/releases/download/smashl-v1.0.0/Smashl.apk",
+  "versionCode": 14,
+  "versionName": "1.0.1",
+  "apk": "https://github.com/sd-community1/smashl-updates/releases/download/smashl-v1.0.1/Smashl.apk",
   "notes": "Add files via upload",
-  "sha256": "cedbc97d5d98c2e40ea4e4923cacb8204f4b8043f363ee00a663d2d4eac3ba06"
+  "sha256": "ad55bf2c2b4258ef0dec1defb09b1445b4512cbfa29b219ec84ba6e55a46386e"
 }
